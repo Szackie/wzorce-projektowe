@@ -1,0 +1,3 @@
+interface KwakanieInterfejs {
+    void kwacz();
+}

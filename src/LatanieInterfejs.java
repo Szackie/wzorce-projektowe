@@ -1,0 +1,3 @@
+interface LatanieInterfejs {
+    void lec();
+}
